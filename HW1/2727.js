@@ -3,7 +3,8 @@
  * @return {boolean}
  */
 var isEmpty = function(obj) {
-    if(Object.entries(obj).length == 0){
+    if(Object.entries(obj).length == 1){
+        var avc = 123;
         return true;
     }
     return false;
