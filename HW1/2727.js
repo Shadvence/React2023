@@ -9,4 +9,6 @@ var isEmpty = function(obj) {
     return false;
 
     //do something else
+
+    //anotha one
 };
