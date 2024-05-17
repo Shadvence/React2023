@@ -12,4 +12,8 @@ var isEmpty = function(obj) {
     //do something again
 
     //anotha one
+
+    if(Object.entries(obj).length == 0){
+        return true;
+    }
 };
