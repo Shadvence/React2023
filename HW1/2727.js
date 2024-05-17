@@ -8,7 +8,7 @@ var isEmpty = function(obj) {
     }
     return false;
 
-    //do something else
+    //do something again
 
     //anotha one
 };
