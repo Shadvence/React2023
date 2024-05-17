@@ -7,4 +7,6 @@ var isEmpty = function(obj) {
         return true;
     }
     return false;
+
+    //do something else
 };
